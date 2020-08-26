@@ -1,3 +1,9 @@
+////Step - 3 (ReadData.java)
+
+//Check Classes as below:
+//Step - 1 (Employee Class - Serializable)
+//Step - 3 (WriteData.java)
+
 import java.io.*;
 public class ReadData {
 	private FileInputStream fileinput; // FileInputStream is a Keyword for input data in file
