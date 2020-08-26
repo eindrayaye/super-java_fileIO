@@ -30,7 +30,7 @@ InputStreamReader	OutputStreamWriter
 
 **************************************
 
-<TRY IT YORTSELF - PROJECTS>
+<TRY IT YOURSELF - PROJECTS>
 
 (1) Retreive the list of all files and folders under particular folder. you have to do deep traversing.
 
