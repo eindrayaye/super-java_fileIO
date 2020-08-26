@@ -2,9 +2,9 @@
 
 To read or write data from file we can either use character Stream or byte Stream.
 
-Byte stream - it transfers data in form of bytes 
+Byte stream - it transfers data in form of bytes.
 
-Tt will be faster to use because it is directly transfering data in form of bytes.
+It will be faster to use because it is directly transfering data in form of bytes.
 
 
 InputStream		      OutputStream
@@ -18,9 +18,7 @@ DataInputStream		  DataOutputStream
 
 
 
-Character Stream: it will transfer data in form of unicode characters
-
-when u want to have files in multiple languages.
+Character Stream:  it will transfer data in form of unicode characters when u want to have files in multiple languages.
 
 Reader			Writer
 
