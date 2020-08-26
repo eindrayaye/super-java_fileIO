@@ -38,8 +38,8 @@ InputStreamReader	OutputStreamWriter
 
 
 
-** More challenging Serializable/ Reading and writing file or database? Try below ***
-< The solutions are uploaded >> Check (1) University.class (2) WriteUniCollege.java (3) ReadUniCollege.java
+** More challenging Serializable/ Reading and writing (from / to) file or database? Try below the task number (3) and (4) ***
+< The solutions are uploaded // Check (1) University.class (2) WriteUniCollege.java (3) ReadUniCollege.java>
 
 (3)Create a University Object. University can have College when I Serialize University
 it should automatically serialize College.
